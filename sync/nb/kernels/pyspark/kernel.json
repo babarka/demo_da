@@ -1,0 +1,4 @@
+{"argv": ["/opt/anaconda/bin/python", "-m", "IPython.kernel", "-f", "{connection_file}"],
+ "display_name": "pySpark",
+ "language": "python"
+}

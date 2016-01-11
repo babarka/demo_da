@@ -1,0 +1,23 @@
+[0m[[0minfo[0m] [0mPackaging /Users/barker/projects/demo_da/sync/mini/target/scala-2.10/learning-spark-mini-example_2.10-1.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	com/oreilly[0m
+[0m[[0mdebug[0m] [0m	  /Users/barker/projects/demo_da/sync/mini/target/scala-2.10/classes/com/oreilly[0m
+[0m[[0mdebug[0m] [0m	com[0m
+[0m[[0mdebug[0m] [0m	  /Users/barker/projects/demo_da/sync/mini/target/scala-2.10/classes/com[0m
+[0m[[0mdebug[0m] [0m	com/oreilly/learningsparkexamples/mini/scala/WordCount$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/barker/projects/demo_da/sync/mini/target/scala-2.10/classes/com/oreilly/learningsparkexamples/mini/scala/WordCount$.class[0m
+[0m[[0mdebug[0m] [0m	com/oreilly/learningsparkexamples/mini/scala/WordCount$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/barker/projects/demo_da/sync/mini/target/scala-2.10/classes/com/oreilly/learningsparkexamples/mini/scala/WordCount$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	com/oreilly/learningsparkexamples/mini/scala/WordCount$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/barker/projects/demo_da/sync/mini/target/scala-2.10/classes/com/oreilly/learningsparkexamples/mini/scala/WordCount$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	com/oreilly/learningsparkexamples/mini/scala/WordCount.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/barker/projects/demo_da/sync/mini/target/scala-2.10/classes/com/oreilly/learningsparkexamples/mini/scala/WordCount.class[0m
+[0m[[0mdebug[0m] [0m	com/oreilly/learningsparkexamples/mini/scala[0m
+[0m[[0mdebug[0m] [0m	  /Users/barker/projects/demo_da/sync/mini/target/scala-2.10/classes/com/oreilly/learningsparkexamples/mini/scala[0m
+[0m[[0mdebug[0m] [0m	com/oreilly/learningsparkexamples/mini[0m
+[0m[[0mdebug[0m] [0m	  /Users/barker/projects/demo_da/sync/mini/target/scala-2.10/classes/com/oreilly/learningsparkexamples/mini[0m
+[0m[[0mdebug[0m] [0m	com/oreilly/learningsparkexamples[0m
+[0m[[0mdebug[0m] [0m	  /Users/barker/projects/demo_da/sync/mini/target/scala-2.10/classes/com/oreilly/learningsparkexamples[0m
+[0m[[0mdebug[0m] [0m	com/oreilly/learningsparkexamples/mini/scala/WordCount$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/barker/projects/demo_da/sync/mini/target/scala-2.10/classes/com/oreilly/learningsparkexamples/mini/scala/WordCount$$anonfun$1.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
